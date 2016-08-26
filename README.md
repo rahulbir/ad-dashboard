@@ -1,6 +1,8 @@
 ## Instantanea
 #### an AppDevices Dashboard
 
+https://rahulbir.github.io/ad-dashboard
+
 ## Installation
 ####1.  Make sure you have [npm](https://www.npmjs.org/) installed globally
 
