@@ -6,7 +6,7 @@ const SideBar = (props) => {
     <div className="col-sm-3 col-md-2 sidebar">
       <ul className="nav nav-sidebar">
         <li>
-          <img src={require('../assets/images/InstantaneaLogo-1.png')} style={{height: '45px', paddingLeft: '10px', paddingBottom: '10px'}}/>
+          <Link to='/'><img src={require('../assets/images/InstantaneaLogo-1.png')} style={{height: '40px', paddingBottom: '5px'}}/></Link>
         </li>
         <li className={props.title === 'Dashboard' ? 'active' : ''}>
           <Link to='/socialCommittee'><i className="fa fa-users"/> Social Committee</Link>
