@@ -1,6 +1,5 @@
 import React, { PropTypes } from "react";
 
-import TopBar from "./TopBar";
 import SideBar from "./SideBar";
 
 import "../assets/stylesheets/main.css";
